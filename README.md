@@ -42,4 +42,4 @@ Sample Q&A dataset
 
 Working chatbot via terminal or web interface
 
-Output:
+Output:![Image](https://github.com/user-attachments/assets/d9b74c71-6a11-4175-972d-f1b6b7d805bd)
